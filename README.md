@@ -6,8 +6,6 @@
   <br>
 </h1>
 
-# Welcome to GSC
-
 # GSC文档指南
 
 ## GSC文档主要分为几个部分：
