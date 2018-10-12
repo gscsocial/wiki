@@ -1,3 +1,13 @@
+<h1 align="center">
+  <br>
+  <img width="40%" src="https://i.loli.net/2018/06/19/5b290aa0885f1.png">
+  <br>
+  GSC Core
+  <br>
+</h1>
+
+# Welcome to GSC
+
 # GSC文档指南
 
 ## GSC文档主要分为几个部分：
