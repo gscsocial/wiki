@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "name": "wiki-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "yarn": "^1.10.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
