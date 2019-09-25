@@ -14,7 +14,7 @@
     "doc": "docs"
   },
   "dependencies": {
-    "yarn": "^1.10.0"
+    "yarn": "^1.17.3"
   },
   "devDependencies": {},
   "description": ""
